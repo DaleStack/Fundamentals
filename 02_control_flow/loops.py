@@ -84,4 +84,10 @@ for letter in "Python":
 else:
     print("For loop has completed normally.")
 
+# Example 8: Nested for loop
+
+for i in range(1, 4):
+    for j in range(1, 4):
+        print(f"i: {i}, j: {j}")
+
 
