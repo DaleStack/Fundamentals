@@ -7,6 +7,7 @@ A personal repository to revisit and master the core concepts of Python — from
 ## 📚 Learning Roadmap
 
 1. [Basics](01_basics/)
+2. [Control Flow](02_control_flow/)
 
 ---
 
